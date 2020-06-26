@@ -1,1 +1,8 @@
-wjjskdkgfgsfhjks; // this is master branch
+
+ 
+
+
+
+
+variable=10; // develop branch
+>>>>>>> develop
